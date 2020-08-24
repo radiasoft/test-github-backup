@@ -1,4 +1,3 @@
-# Testing pykern.pkcli.github
-Repo for testing github tools
-
-github_test=ejmqxr
+IyBUZXN0aW5nIHB5a2Vybi5wa2NsaS5naXRodWIKUmVwbyBmb3IgdGVzdGlu
+ZyBnaXRodWIgdG9vbHMKCmdpdGh1Yl90ZXN0PWVqbXF4cgo=
+github_test=dsidql
